@@ -7,19 +7,7 @@ Things you may want to cover:
 
 * Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* run rake db:seed to insert robot records and pass robot id on each post type orders
 
 * ...
 # 7c2887f730325123b30b

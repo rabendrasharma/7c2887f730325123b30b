@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  x_coordinate: 1
+  y_coordinate: 1
+  direction: MyString
+  robot_id: 1
+
+two:
+  x_coordinate: 1
+  y_coordinate: 1
+  direction: MyString
+  robot_id: 1
